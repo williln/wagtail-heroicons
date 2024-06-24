@@ -23,7 +23,7 @@ classifiers = [
   "Programming Language :: Python :: 3.12",
   "Programming Language :: Python :: Implementation :: CPython"
 ]
-dependencies = ["wagtail>=5.2"]
+dependencies = ["wagtail>=5.2", "mkdocs", "mkdocs-material", "mkdocs-monorepo-plugin"]
 description = "Add Heroicons to the Wagtail admin."
 dynamic = ["version"]
 keywords = []
