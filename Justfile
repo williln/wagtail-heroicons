@@ -44,3 +44,7 @@ fmt:
 # run pre-commit on all files
 lint:
     python -m nox --session "lint"
+
+# run mkdocs docs locally
+docs:
+    mkdocs serve

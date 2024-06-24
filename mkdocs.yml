@@ -1,0 +1,12 @@
+site_name: wagtail-heroicons
+repo_name: "williln/wagtail-heroicons"
+repo_url: "https://github.com/williln/wagtail-heroicons"
+
+theme:
+  name: material
+  language: "en"
+
+nav:
+  - Home: "index.md"
+  - Just: "development/just.md"
+  - GitHub Source Code: https://github.com/williln/wagtail-heroicons

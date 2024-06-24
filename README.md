@@ -53,3 +53,13 @@ See the [Wagtail documentation](https://docs.wagtail.org/en/latest/search.html?q
 `wagtail-heroicons` is licensed under the MIT license. See the [`LICENSE`](LICENSE) file for more information.
 
 Heroicons are licensed under the MIT License and are Copyright (c) 2020 Refactoring UI Inc.
+
+## MkDocs
+
+To preview the MkDocs docs, run:
+
+```bash
+mkdocs serve
+```
+
+Then navigate to `http://localhost:8000/`. There may be formatting issues, because the docs were originally written with the Read the Docs formatting in mind.
